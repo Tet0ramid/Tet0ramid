@@ -1,4 +1,6 @@
-## Hi there 👋
+## LISTEN TO TETORIS.
+
+That's all.
 
 <!--
 **Tet0ramid/Tet0ramid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
